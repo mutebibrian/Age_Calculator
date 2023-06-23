@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Age Calculator</string>
+    <string name="get_my_age">Get My Age</string>
+</resources>
